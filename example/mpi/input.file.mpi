@@ -1,0 +1,68 @@
+ma_function             = search          % Choice of functions from create, compare, both, search, fit_gaussian or fit_scale
+ma_seed                 = 17027         % Random Number Seed
+ma_processors           = 1              % Number of processors
+ 
+%% COMPARE %%
+
+co_filename1            = Au309-Ico.xyz  %
+co_filename2            = data/zcon/ %
+co_scale_intensity      = yes
+co_print_to_screen      = yes 
+co_lsf                  = yes 
+co_covariance           = yes
+co_save_results         = yes
+co_centre_image         = no 
+co_translate_x          = 0
+co_translate_y          = 0
+co_save_lsf_difference  = no 
+
+%% CREATE %%
+
+cr_xyz_filename         = Au309-Ico.xyz %
+cr_width                = 30 
+cr_height               = 30
+cr_gridsize             = 0.5
+cr_rutherford           = 1.7
+cr_gaussian             = 1.4
+cr_noise                = 0
+cr_parameters_file      = yes
+cr_fourier              = no
+cr_fourier_scalar       = 0.005
+cr_save_cross_section   = no
+cr_print_to_screen      = yes 
+cr_rotate_x             = 0
+cr_rotate_y             = 0
+cr_rotate_z             = 0
+cr_rotate_random        = no 
+cr_save_structure       = no
+
+%% SEARCH %%
+
+se_minimise             = no 
+se_minimise_type        = uni         % Choice from uni, powell, multi, or linear
+se_global_search        = yes 
+se_periodic             = yes
+se_theta_max            = 359           % Max 2pi
+se_theta_min            = 0             % Min 0
+se_theta_step           = 1
+se_phi_max              = 90            % Max pi/2
+se_phi_min              = -90           % Min - (pi/2)
+se_phi_step             = 1
+se_psi_max              = 359           % Max 2pi
+se_psi_min              = 0             % Min 0
+se_psi_step             = 1
+se_comparison           = lsf           % Choice from lsf or covariance
+se_print_to_screen      = yes
+
+%% GA %%
+
+ga_population_size      = 4 
+ga_generations          = 2
+ga_number_offspring     = 0.5
+ga_tournament_size      = 4 
+ga_mutation_rate        = 0.5
+ga_mutation_type        = dynamic        % choice from static or dynamic
+ga_fitness_type         = exponential   % choice from exponential, linear or tanh
+ga_mating_type          = uniform
+ga_parent_select        = roulette    % choice from tournament or roulette
+ga_print_to_screen      = yes

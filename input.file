@@ -1,0 +1,67 @@
+ma_function 		= search	% Function of program. Choice from create, compare, both or search
+ma_seed			= 123		% Seed for random number generator
+ma_processors		= 2		% Number of processors
+ 
+%% COMPARE %%
+
+co_filename1 		= Au309-Ico.xyz %
+co_filename2 		= Au309-Ico.zcon	%
+co_scale_intensity 	= yes
+co_print_to_screen 	= no 
+co_lsf 			= yes
+co_covariance 		= no
+co_save_results 	= yes
+co_centre_image 	= no
+co_save_lsf_difference 	= no
+
+%% CREATE %%
+
+cr_xyz_filename		= Au309-Ico.xyz	%
+cr_width		= 20
+cr_height		= 20
+cr_gridsize		= 0.1
+cr_rutherford		= 1.7
+cr_gaussian		= 1.4
+cr_noise		= 0
+cr_parameters_file	= yes
+cr_fourier		= no
+cr_fourier_scalar	= 0.005
+cr_save_cross_section	= no
+cr_print_to_screen	= no 
+cr_rotate_x		= 0
+cr_rotate_y		= 12 
+cr_rotate_z		= 45
+cr_rotate_random	= yes 
+cr_save_structure	= no
+
+%% SEARCH %%
+
+% se_search_type		= triangle	% Choice from rotate, triangle, circle and circle-alternative
+se_minimise		= yes 
+se_minimise_type	= multi		% Choice from uni, powell, multi, or linear
+se_global_search	= yes 
+se_x_max		= 90
+se_x_min		= -90
+se_x_step		= 1
+se_y_max		= 90
+se_y_min		= -90
+se_y_step		= 1
+se_z_max		= -180
+se_z_min		= 180
+se_z_step		= 1
+se_comparison		= lsf		% Choice from lsf, covariance or testCovariance
+se_print_to_screen	= yes
+
+%% GA %%
+
+ga_population_size	= 2
+ga_generations		= 2
+ga_number_offspring	= 1
+ga_tournament_size	= 2
+ga_mutation_rate	= 0.5
+ga_mutation_type	= static	% choice from static or dynamic
+ga_fitness_type		= exponential	% choice from exponential, linear or tanh
+ga_mating_type		= uniform
+ga_parent_select	= tournament	% choice from tournament or roulette
+ga_print_to_screen	= yes 
+

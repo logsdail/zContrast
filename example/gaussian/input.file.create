@@ -1,0 +1,24 @@
+ma_function             = create        % Choice of functions from create, compare, both, search, fit_gaussian or fit_scale
+ma_seed                 = 123           % Random Number Seed
+ma_processors           = 2             % Number of processors
+ 
+%% CREATE %%
+
+cr_xyz_filename         = Au309-Dec-STEM.xyz
+cr_width                = 19.900319
+cr_height               = 19.900319
+cr_gridsize             = 0.0500008015
+cr_rutherford           = 1.7
+cr_gaussian             = 5.5
+cr_gaussian_fit		= 0.1	% Size of step for fitting gaussian
+cr_noise                = 0
+cr_parameters_file      = yes
+cr_fourier              = no
+cr_fourier_scalar       = 0.005
+cr_save_cross_section   = no
+cr_print_to_screen      = yes 
+cr_rotate_x             = 0
+cr_rotate_y             = 0
+cr_rotate_z             = 0
+cr_rotate_random        = no
+cr_save_structure       = yes

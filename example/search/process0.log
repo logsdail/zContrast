@@ -1,0 +1,239 @@
+=================================================
+Searching with the files: Au309-Ico.xyz and Au309-Ico.zcon
+=================================================
+Not Optimising: ( 187 , 54 , 202 ) : 0
+Optimising: ( 188 , 55 , 201 ) : 5.47365e+06
+Optimising: ( 189 , 56 , 200 ) : 4.74104e+06
+Optimising: ( 190 , 57 , 199 ) : 4.28486e+06
+Optimising: ( 191 , 58 , 198 ) : 4.10681e+06
+Optimising: ( 192 , 58 , 197 ) : 3.99984e+06
+Optimising: ( 193 , 58 , 196 ) : 3.91421e+06
+Optimising: ( 194 , 57 , 195 ) : 3.83505e+06
+Optimising: ( 195 , 57 , 194 ) : 3.78038e+06
+Optimising: ( 196 , 57 , 193 ) : 3.75074e+06
+Optimising: ( 197 , 57 , 192 ) : 3.7459e+06
+Set point : Parents -  1, Mutants - 0, Offspring - 0
+Not Optimising: ( 93 , 68 , 347 ) : 4.59163e-41
+Optimising: ( 94 , 69 , 348 ) : 4.74818e+06
+Optimising: ( 93 , 70 , 349 ) : 4.35938e+06
+Optimising: ( 92 , 71 , 350 ) : 4.11903e+06
+Optimising: ( 91 , 72 , 351 ) : 4.04105e+06
+Optimising: ( 90 , 72 , 352 ) : 4.03447e+06
+Optimising: ( 90 , 72 , 353 ) : 4.03205e+06
+Optimising: ( 90 , 72 , 354 ) : 4.02875e+06
+Optimising: ( 90 , 72 , 355 ) : 4.02453e+06
+Optimising: ( 90 , 72 , 356 ) : 4.01944e+06
+Optimising: ( 90 , 72 , 357 ) : 4.01364e+06
+Optimising: ( 90 , 72 , 358 ) : 4.00737e+06
+Optimising: ( 90 , 72 , 359 ) : 4.00096e+06
+Optimising: ( 90 , 72 , 0 ) : 3.99482e+06
+Optimising: ( 90 , 72 , 1 ) : 3.98935e+06
+Optimising: ( 90 , 72 , 2 ) : 3.98494e+06
+Optimising: ( 90 , 72 , 3 ) : 3.98193e+06
+Optimising: ( 90 , 72 , 4 ) : 3.98056e+06
+Set point : Parents -  2, Mutants - 0, Offspring - 0
+Not Optimising: ( 228 , -74 , 120 ) : 4.59163e-41
+Optimising: ( 227 , -74 , 121 ) : 3.69592e+06
+Optimising: ( 226 , -74 , 122 ) : 3.57946e+06
+Optimising: ( 225 , -74 , 123 ) : 3.46701e+06
+Optimising: ( 224 , -74 , 124 ) : 3.36132e+06
+Optimising: ( 223 , -74 , 125 ) : 3.26425e+06
+Optimising: ( 222 , -74 , 126 ) : 3.17648e+06
+Optimising: ( 221 , -74 , 127 ) : 3.09794e+06
+Optimising: ( 220 , -74 , 128 ) : 3.02848e+06
+Optimising: ( 219 , -74 , 128 ) : 2.96861e+06
+Optimising: ( 218 , -74 , 127 ) : 2.9183e+06
+Optimising: ( 217 , -74 , 126 ) : 2.8776e+06
+Optimising: ( 216 , -74 , 125 ) : 2.84675e+06
+Optimising: ( 215 , -73 , 126 ) : 2.82095e+06
+Optimising: ( 214 , -73 , 125 ) : 2.80004e+06
+Optimising: ( 213 , -73 , 124 ) : 2.7895e+06
+Optimising: ( 212 , -73 , 123 ) : 2.78934e+06
+Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  3, Mutants - 0, Offspring - 0
+Not Optimising: ( 356 , -37 , 28 ) : 4.59163e-41
+Optimising: ( 355 , -36 , 29 ) : 7.31543e+06
+Optimising: ( 355 , -35 , 30 ) : 7.08791e+06
+Optimising: ( 355 , -35 , 31 ) : 7.08781e+06
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 212 , -73 , 122 ) : 2.78903e+06
+
+Working out offspring : 2. Points size is : 4
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+Not Optimising: ( 50 , -35 , 31 ) : 0
+Optimising: ( 51 , -36 , 32 ) : 2.39184e+06
+Optimising: ( 52 , -37 , 33 ) : 2.07249e+06
+Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  4, Mutants - 1, Offspring - 0
+Not Optimising: ( 355 , -35 , 199 ) : 0
+Optimising: ( 354 , -35 , 200 ) : 7.26005e+06
+Optimising: ( 355 , -35 , 201 ) : 7.18552e+06
+Optimising: ( 355 , -35 , 202 ) : 7.18514e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+Not Optimising: ( 90 , 72 , 31 ) : 88888
+Optimising: ( 90 , 72 , 32 ) : 4.01944e+06
+Optimising: ( 90 , 72 , 33 ) : 4.01363e+06
+Optimising: ( 90 , 72 , 34 ) : 4.00737e+06
+Optimising: ( 90 , 72 , 35 ) : 4.00096e+06
+Optimising: ( 90 , 72 , 36 ) : 3.99482e+06
+Optimising: ( 90 , 72 , 37 ) : 3.98935e+06
+Optimising: ( 90 , 72 , 38 ) : 3.98494e+06
+Optimising: ( 90 , 72 , 39 ) : 3.98193e+06
+Optimising: ( 90 , 72 , 40 ) : 3.98056e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 1
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+52	-38	33	1.99577e+06
+212	-73	122	2.78903e+06
+212	-73	122	2.78903e+06
+197	57	192	3.7459e+06
+
+Not Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  1, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  2, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  3, Mutants - 0, Offspring - 0
+Not Optimising: ( 197 , 57 , 192 ) : 3.7459e+06
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 52 , -38 , 33 ) : 1.99577e+06
+
+Working out offspring : 2. Points size is : 4
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+Not Optimising: ( 212 , -73 , 256 ) : 0
+Optimising: ( 212 , -73 , 257 ) : 2.8039e+06
+Optimising: ( 212 , -73 , 258 ) : 2.79966e+06
+Optimising: ( 212 , -73 , 259 ) : 2.79640e+06
+Optimising: ( 212 , -73 , 260 ) : 2.79399e+06
+Optimising: ( 212 , -73 , 261 ) : 2.79226e+06
+Optimising: ( 212 , -73 , 262 ) : 2.79102e+06
+Optimising: ( 212 , -73 , 263 ) : 2.79014e+06
+Optimising: ( 212 , -73 , 264 ) : 2.78952e+06
+Optimising: ( 212 , -73 , 265 ) : 2.78913e+06
+Optimising: ( 212 , -73 , 266 ) : 2.78903e+06
+Set point : Parents -  4, Mutants - 1, Offspring - 0
+Not Optimising: ( 197 , -6 , 192 ) : 0
+Optimising: ( 196 , -5 , 193 ) : 2.90219e+06
+Optimising: ( 195 , -5 , 194 ) : 2.79595e+06
+Optimising: ( 195 , -5 , 195 ) : 2.79487e+06
+Optimising: ( 195 , -5 , 196 ) : 2.79441e+06
+Optimising: ( 195 , -5 , 197 ) : 2.79436e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+Not Optimising: ( 197 , 57 , 192 ) : 3.7459e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 1
+Not Optimising: ( 52 , -73 , 33 ) : 88888
+Optimising: ( 53 , -74 , 32 ) : 6.17507e+06
+Optimising: ( 54 , -74 , 32 ) : 6.12064e+06
+Optimising: ( 55 , -74 , 33 ) : 6.09299e+06
+Optimising: ( 55 , -74 , 34 ) : 6.06955e+06
+Optimising: ( 56 , -74 , 35 ) : 6.01132e+06
+Optimising: ( 57 , -74 , 36 ) : 5.96902e+06
+Optimising: ( 57 , -74 , 37 ) : 5.94116e+06
+Optimising: ( 58 , -74 , 38 ) : 5.9185e+06
+Optimising: ( 59 , -74 , 39 ) : 5.91196e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+52	-38	33	1.99577e+06
+212	-73	122	2.78903e+06
+212	-73	122	2.78903e+06
+212	-73	266	2.78903e+06
+
+Not Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  1, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  2, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  3, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 266 ) : 2.78903e+06
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 52 , -38 , 33 ) : 1.99577e+06
+
+Working out offspring : 2. Points size is : 4
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+Not Optimising: ( 282 , -73 , 122 ) : 0
+Optimising: ( 281 , -72 , 121 ) : 4.84307e+06
+Optimising: ( 280 , -71 , 120 ) : 4.5887e+06
+Optimising: ( 279 , -71 , 119 ) : 4.47912e+06
+Optimising: ( 278 , -71 , 118 ) : 4.38294e+06
+Optimising: ( 277 , -71 , 117 ) : 4.30032e+06
+Optimising: ( 276 , -71 , 116 ) : 4.23135e+06
+Optimising: ( 275 , -71 , 115 ) : 4.17609e+06
+Optimising: ( 274 , -72 , 114 ) : 4.11525e+06
+Optimising: ( 273 , -72 , 113 ) : 4.06793e+06
+Optimising: ( 272 , -72 , 112 ) : 4.03432e+06
+Optimising: ( 271 , -72 , 111 ) : 4.01422e+06
+Optimising: ( 270 , -72 , 110 ) : 4.00737e+06
+Optimising: ( 270 , -72 , 109 ) : 4.00096e+06
+Optimising: ( 270 , -72 , 108 ) : 3.99482e+06
+Optimising: ( 270 , -72 , 107 ) : 3.98935e+06
+Optimising: ( 270 , -72 , 106 ) : 3.98494e+06
+Optimising: ( 270 , -72 , 105 ) : 3.98193e+06
+Optimising: ( 270 , -72 , 104 ) : 3.98056e+06
+Set point : Parents -  4, Mutants - 1, Offspring - 0
+Not Optimising: ( 352 , -73 , 122 ) : 0
+Optimising: ( 353 , -74 , 123 ) : 7.46578e+06
+Optimising: ( 354 , -74 , 124 ) : 7.39574e+06
+Optimising: ( 355 , -74 , 125 ) : 7.33601e+06
+Optimising: ( 356 , -74 , 126 ) : 7.28695e+06
+Optimising: ( 357 , -74 , 127 ) : 7.24882e+06
+Optimising: ( 358 , -74 , 128 ) : 7.22186e+06
+Optimising: ( 359 , -74 , 129 ) : 7.20619e+06
+Optimising: ( 359 , -74 , 130 ) : 7.19492e+06
+Optimising: ( 0 , -74 , 131 ) : 7.19069e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+Not Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 1
+Not Optimising: ( 212 , -73 , 33 ) : 88888
+Optimising: ( 212 , -73 , 34 ) : 2.85343e+06
+Optimising: ( 212 , -73 , 35 ) : 2.84625e+06
+Optimising: ( 212 , -73 , 36 ) : 2.83841e+06
+Optimising: ( 212 , -73 , 37 ) : 2.83039e+06
+Optimising: ( 212 , -73 , 38 ) : 2.82262e+06
+Optimising: ( 212 , -73 , 39 ) : 2.81547e+06
+Optimising: ( 212 , -73 , 40 ) : 2.80918e+06
+Optimising: ( 212 , -73 , 41 ) : 2.8039e+06
+Optimising: ( 212 , -73 , 42 ) : 2.79966e+06
+Optimising: ( 212 , -73 , 43 ) : 2.79640e+06
+Optimising: ( 212 , -73 , 44 ) : 2.79399e+06
+Optimising: ( 212 , -73 , 45 ) : 2.79226e+06
+Optimising: ( 212 , -73 , 46 ) : 2.79102e+06
+Optimising: ( 212 , -73 , 47 ) : 2.79014e+06
+Optimising: ( 212 , -73 , 48 ) : 2.78952e+06
+Optimising: ( 212 , -73 , 49 ) : 2.78913e+06
+Optimising: ( 212 , -73 , 50 ) : 2.78903e+06
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+52	-38	33	1.99577e+06
+52	-38	33	1.99577e+06
+212	-73	122	2.78903e+06
+212	-73	122	2.78903e+06
+
+Not Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  1, Mutants - 0, Offspring - 0
+Not Optimising: ( 52 , -38 , 33 ) : 1.99577e+06
+Set point : Parents -  2, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06
+Set point : Parents -  3, Mutants - 0, Offspring - 0
+Not Optimising: ( 212 , -73 , 122 ) : 2.78903e+06

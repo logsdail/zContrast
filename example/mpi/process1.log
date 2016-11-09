@@ -1,0 +1,1216 @@
+=================================================
+Searching with the files: Au309-Ico.xyz and data/zcon/output.zcon
+=================================================
+
+========================================================
+== Performing rotation: x = 130 , y = 46 , z = 129
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x130-y46-z129.xyz
+File Loaded : data/zcon/output.zcon
+!!!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!!
+Grids are not of matching size so resizing...
+IF YOU ARE WORKING WITH DECIMAL POINTS THIS
+MAY CAUSE PROBLEMS. RESIZE IMAGE IF POSSIBLE.
+Recommend changing this in input file!
+Currently:
+File 1: Width = 60, Height = 60, Grid Size = 0.5
+File 2: Width = 100, Height = 100, Grid Size = 0.2
+After resize:
+File 1: Width = 60, Grid Size = 0.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+========================================================
+== Performing rotation: x = 130 , y = 46 , z = 129
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+Scaling Z Values to match
+****** COMPARISON NO: 1 ******
+
+File 1: Au309-Ico-x130-y46-z129.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 4.2039e-45
+Average Z: 37.9439
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 1144.14
+Covariance: 2510.59
+
+
+========================================================
+== Performing rotation: x = 168 , y = -25 , z = 93
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x168-y-25-z93.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 2 ******
+
+File 1: Au309-Ico-x168-y-25-z93.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 9.80909e-45
+Average Z: 59.0171
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2517.02
+Covariance: 3910.64
+
+
+========================================================
+== Performing rotation: x = 33 , y = -66 , z = 175
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x33-y-66-z175.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 3 ******
+
+File 1: Au309-Ico-x33-y-66-z175.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 1.4013e-44
+Average Z: 58.65
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2379.48
+Covariance: 3919.03
+
+
+========================================================
+== Performing rotation: x = 150 , y = 19 , z = 221
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y19-z221.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 4 ******
+
+File 1: Au309-Ico-x150-y19-z221.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 4.94462e-41
+Average Z: 59.8795
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2546.41
+Covariance: 4010.24
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 130 , 46 , 129 ) : 1144.14
+
+Working out offspring : 2. Points size is : 4
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+
+========================================================
+== Performing rotation: x = 150 , y = -65 , z = 221
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y-65-z221.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 5 ******
+
+File 1: Au309-Ico-x150-y-65-z221.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 2.8026e-45
+Average Z: 51.3166
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 1668.75
+Covariance: 3409.32
+
+
+========================================================
+== Performing rotation: x = 168 , y = -25 , z = 275
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x168-y-25-z275.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 6 ******
+
+File 1: Au309-Ico-x168-y-25-z275.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 1.4013e-45
+Average Z: 59.1546
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2526.54
+Covariance: 3923.78
+
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+
+========================================================
+== Performing rotation: x = 150 , y = -25 , z = 221
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y-25-z221.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 7 ******
+
+File 1: Au309-Ico-x150-y-25-z221.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 6.44597e-44
+Average Z: 61.2795
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2740.35
+Covariance: 4091.66
+
+
+========================================================
+== Performing rotation: x = 150 , y = -66 , z = 221
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y-66-z221.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 8 ******
+
+File 1: Au309-Ico-x150-y-66-z221.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 1.4013e-45
+Average Z: 52.1804
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 1741.36
+Covariance: 3465.22
+
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+130	46	129	1144.14
+150	-65	221	1668.75
+150	-66	221	1741.36
+33	-66	175	2379.48
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 130 , 46 , 129 ) : 1144.14
+
+Working out offspring : 2. Points size is : 4
+Roulette failed (1) : 0 : 1 > 0.814785
+Roulette failed (1) : 0 : 1 > 0.0157475
+Roulette failed (1) : 0 : 1 > 0.573205
+Roulette failed (2) : 1 : 0.279706 > 0.0956334
+Roulette failed (2) : 0 : 1 > 0.631181
+Roulette failed (2) : 0 : 1 > 0.100198
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+
+========================================================
+== Performing rotation: x = 150 , y = -78 , z = 221
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y-78-z221.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 9 ******
+
+File 1: Au309-Ico-x150-y-78-z221.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 57.1082
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2246.75
+Covariance: 3785.45
+
+
+========================================================
+== Performing rotation: x = 92 , y = -66 , z = 175
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x92-y-66-z175.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 10 ******
+
+File 1: Au309-Ico-x92-y-66-z175.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 59.0496
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 2475.63
+Covariance: 3945.6
+
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+
+========================================================
+== Performing rotation: x = 150 , y = -65 , z = 175
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x150-y-65-z175.xyz
+File Loaded : data/zcon/output.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 11 ******
+
+File 1: Au309-Ico-x150-y-65-z175.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 51.6298
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/output.zcon
+Step: 0.2
+Max X: 19.8
+Min X: 0
+Max Y: 19.8
+Min Y: 0
+Max Z: 255
+Min Z: 0
+Average Z: 44.9072
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 1715.38
+Covariance: 3419.49
+
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+130	46	129	1144.14
+150	-65	221	1668.75
+150	-65	221	1668.75
+150	-65	175	1715.38
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 130 , 46 , 129 ) : 1144.14
+
+For Au309-Ico.xyz and data/zcon/output.zcon ... 
+A total of 11 comparisons (FEs) were made, with a further 11 copied from history.
+=================================================
+Searching with the files: Au309-Ico.xyz and data/zcon/scaled_no_noise.zcon
+=================================================
+
+========================================================
+== Performing rotation: x = 277 , y = -11 , z = 134
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x277-y-11-z134.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+!!!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!!
+Grids are not of matching size so resizing...
+IF YOU ARE WORKING WITH DECIMAL POINTS THIS
+MAY CAUSE PROBLEMS. RESIZE IMAGE IF POSSIBLE.
+Recommend changing this in input file!
+Currently:
+File 1: Width = 60, Height = 60, Grid Size = 0.5
+File 2: Width = 100, Height = 100, Grid Size = 0.2
+After resize:
+File 1: Width = 60, Grid Size = 0.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+========================================================
+== Performing rotation: x = 277 , y = -11 , z = 134
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+Scaling Z Values to match
+****** COMPARISON NO: 1 ******
+
+File 1: Au309-Ico-x277-y-11-z134.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 0
+Average Z: 840.584
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 841665
+Covariance: 677656
+
+
+========================================================
+== Performing rotation: x = 257 , y = 28 , z = 324
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x257-y28-z324.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 2 ******
+
+File 1: Au309-Ico-x257-y28-z324.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 1.4013e-45
+Average Z: 838.2
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 848443
+Covariance: 669208
+
+
+========================================================
+== Performing rotation: x = 212 , y = -27 , z = 224
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y-27-z224.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 3 ******
+
+File 1: Au309-Ico-x212-y-27-z224.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 4.01094e-41
+Average Z: 799.527
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 743911
+Covariance: 640213
+
+
+========================================================
+== Performing rotation: x = 176 , y = -31 , z = 49
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x176-y-31-z49.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 4 ******
+
+File 1: Au309-Ico-x176-y-31-z49.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 1.68156e-44
+Average Z: 769.237
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 672093
+Covariance: 620848
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 176 , -31 , 49 ) : 672093
+
+Working out offspring : 2. Points size is : 4
+Roulette failed (1) : 3 : 1 > 0.465862
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+
+========================================================
+== Performing rotation: x = 212 , y = -27 , z = 29
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y-27-z29.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 5 ******
+
+File 1: Au309-Ico-x212-y-27-z29.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 0
+Average Z: 796.377
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 735605
+Covariance: 638016
+
+
+========================================================
+== Performing rotation: x = 258 , y = -31 , z = 49
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x258-y-31-z49.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 6 ******
+
+File 1: Au309-Ico-x258-y-31-z49.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 2.63381e-39
+Average Z: 734.324
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 578247
+Covariance: 598290
+
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+
+========================================================
+== Performing rotation: x = 257 , y = 28 , z = 224
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x257-y28-z224.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 7 ******
+
+File 1: Au309-Ico-x257-y28-z224.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 0
+Average Z: 836.408
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 819866
+Covariance: 679676
+
+
+========================================================
+== Performing rotation: x = 212 , y = -27 , z = 324
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y-27-z324.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 8 ******
+
+File 1: Au309-Ico-x212-y-27-z324.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 5.60519e-45
+Average Z: 794.165
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 731065
+Covariance: 635840
+
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+258	-31	49	578247
+176	-31	49	672093
+212	-27	324	731065
+212	-27	29	735606
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 258 , -31 , 49 ) : 578247
+
+Working out offspring : 2. Points size is : 4
+Roulette failed (2) : 0 : 1 > 0.743416
+Roulette failed (1) : 2 : 0.0542891 > 0.0105622
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+
+========================================================
+== Performing rotation: x = 212 , y = -27 , z = 292
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y-27-z292.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 9 ******
+
+File 1: Au309-Ico-x212-y-27-z292.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 6.72623e-44
+Average Z: 795.568
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 722050
+Covariance: 643165
+
+
+========================================================
+== Performing rotation: x = 212 , y = 59 , z = 324
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y59-z324.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 10 ******
+
+File 1: Au309-Ico-x212-y59-z324.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 7.00649e-45
+Average Z: 785.041
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 709990
+Covariance: 625987
+
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+
+========================================================
+== Performing rotation: x = 176 , y = -31 , z = 324
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x176-y-31-z324.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 11 ******
+
+File 1: Au309-Ico-x176-y-31-z324.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 5.60519e-45
+Average Z: 769.237
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 673609
+Covariance: 620090
+
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+258	-31	49	578247
+176	-31	49	672093
+176	-31	324	673609
+212	59	324	709990
+
+Set point : Parents -  4, Mutants - 0, Offspring - 0
+
+Overall Minimum value is ( 258 , -31 , 49 ) : 578247
+
+Working out offspring : 2. Points size is : 4
+Roulette failed (1) : 0 : 1 > 0.730912
+Roulette failed (1) : 0 : 1 > 0.279568
+Roulette failed (2) : 0 : 1 > 0.56547
+Roulette failed (2) : 0 : 1 > 0.576539
+Roulette failed (2) : 1 : 0.118006 > 0.0966215
+Offspring generated : 2
+Working out mutants : 2. Points size is : 4
+Mutants generated : 2
+
+========================================================
+== Performing rotation: x = 258 , y = -31 , z = 17
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x258-y-31-z17.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 12 ******
+
+File 1: Au309-Ico-x258-y-31-z17.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 1.4013e-45
+Average Z: 734.113
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 592685
+Covariance: 590682
+
+
+========================================================
+== Performing rotation: x = 258 , y = -31 , z = 135
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x258-y-31-z135.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 13 ******
+
+File 1: Au309-Ico-x258-y-31-z135.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 1.59748e-43
+Average Z: 738.611
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 615045
+Covariance: 587759
+
+Set point : Parents -  4, Mutants - 2, Offspring - 0
+
+========================================================
+== Performing rotation: x = 212 , y = 59 , z = 49
+== Configuration Successful for: Au309-Ico.xyz
+== Starting Image Simulation
+== Finished
+========================================================
+
+File Loaded : Au309-Ico-x212-y59-z49.xyz
+File Loaded : data/zcon/scaled_no_noise.zcon
+Scaling Z Values to match
+****** COMPARISON NO: 14 ******
+
+File 1: Au309-Ico-x212-y59-z49.xyz
+Step: 0.3
+Max X: 29.7
+Min X: 0
+Max Y: 29.7
+Min Y: 0
+Max Z: 3499.98
+Min Z: 0
+Average Z: 785.04
+M: 100
+N: 100
+Count: 10000
+
+File 2: data/zcon/scaled_no_noise.zcon
+Step: 0.2
+Max X: 19.9
+Min X: 0.1
+Max Y: 19.9
+Min Y: 0.1
+Max Z: 3499.98
+Min Z: 0
+Average Z: 343.145
+M: 100
+N: 100
+Count: 10000
+
+Least Squares: 688209
+Covariance: 636879
+
+Set point : Parents -  4, Mutants - 2, Offspring - 2
+Creating New population
+Points size currently : 8
+
+Points size currently : 4
+Members of new population: 
+258	-31	49	578247
+258	-31	17	592685
+258	-31	135	615045
+176	-31	49	672093
+
